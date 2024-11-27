@@ -1,0 +1,9 @@
+﻿Tamanho;N_Quartos;N_Banheiros;Distancia_Min;Distancia_Km;Piscina_;Garagem;Preco
+50;2;1;15;20;SIM;1;200000
+75;3;2;21;26;NÃO;1;300000
+100;4;3;16;12;NÃO;2;400000
+120;3;2;10;7;SIM;0;450000
+150;5;3;7;5;NÃO;1;600000
+200;4;3;3;2;SIM;2;800000
+350;5;4;2;1;SIM;3;1000000
+;;;;;;;
